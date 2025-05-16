@@ -1,0 +1,184 @@
+1° Questão: 
+
+1. pegar na escada
+
+2. posicionar a escada embaixo da lâmpada
+
+3. subir na escada
+
+4. retirar a lâmpada velha
+
+5. buscar a lâmpada reserva
+
+6. colocar a lâmpada de reserva
+
+
+
+2° Questão: 
+
+Fatores de 36: 2² × 3²
+
+Fatores de 60: 2² × 3 × 5
+
+Fatores comuns: 2² × 3
+
+MDC(36, 60) = 4 × 3 = 12
+
+
+
+3° questão: 
+
+1. Leva a ovelha (deixa lobo e alfafa)
+
+
+2. Volta sozinho
+
+
+3. Leva o lobo
+
+
+4. Volta com a ovelha
+
+
+5. Leva a alfafa
+
+
+6. Volta sozinho
+
+
+7. Leva a ovelha
+
+
+
+4° questão:
+
+1. Leva 1 jesuíta e 1 canibal
+
+
+2. Volta o jesuíta
+
+
+3. Leva 2 canibais
+
+
+4. Volta 1 canibal
+
+
+5. Leva 2 jesuítas
+
+
+6. Volta 1 jesuíta e 1 canibal
+
+
+7. Leva 2 jesuítas
+
+
+8. Volta 1 canibal
+
+
+9. Leva 2 canibais
+
+
+
+5° Questão: 5. Torre de Hanói (3 discos)
+
+Objetivo: Mover todos os 3 discos da haste A para a haste C, seguindo as regras.
+
+Passo a passo:
+
+1. Mover disco 1 de A para C
+
+
+2. Mover disco 2 de A para B
+
+
+3. Mover disco 1 de C para B
+
+
+4. Mover disco 3 de A para C
+
+
+5. Mover disco 1 de B para A
+
+
+6. Mover disco 2 de B para C
+
+
+7. Mover disco 1 de A para C
+
+
+
+6° Questão: 
+   aman|bete|cami|divi|elis|filo
+6°  XX | XX | XX | XX | XX |chap
+5°  XX | XX | XX | XX |cand| XX
+4°  XX | XX | XX | XX | XX | XX
+3°  XX |vest| XX | XX | XX | XX
+2°  XX | XX |bols|grav| XX | XX
+t. livr| XX | XX | XX | XX | XX
+
+
+
+7° questão:
+
+1. Encher C (3L) com água do A → A = 5, C = 3
+
+
+2. Despejar C no B → B = 3, C = 0
+
+
+3. Encher C (3L) com água do A → A = 2, C = 3
+
+
+4. Encher B com o que falta (2L) → B = 5, C = 1
+
+
+5. Despejar C no A → A = 3, C = 0
+
+
+6. Esvaziar B → B = 0
+
+
+7. Encher C com 3L do A → A = 0, C = 3
+
+
+8. Despejar C no B → B = 3
+
+
+9. Encher C novamente com água do A (não tem mais)
+
+
+10. Agora encher A com os 5L (antes guardados), e repetir até ter A = 4, B = 4, C = 0
+
+
+
+8° questão: 
+       João. |Antônio.   |Francisco 
+terça | XX.  |   XX.     |   PIANO
+quinta|harpa | violino.  |   XX
+
+
+
+9° Questão:
+
+João: café
+Miguel:	chá
+Júlio: whisky
+Geraldo: guaraná
+Nádia:	champanhe
+Sílvia:	vinho
+Afonso:	cerveja
+Cristina:	limonada
+Maria:	água
+Máximo:	vodka
+Manuel: vermouth
+Ivone:	laranja
+
+
+
+10° questão:
+
+   A. dardo | 100m.r.  | s. distância
+1° Barnabé. | teodoro  | gumercindo
+2°gumercindo| barnabe  | teodoro
+3°teodoro.  |gumercindo| Barnabé 
